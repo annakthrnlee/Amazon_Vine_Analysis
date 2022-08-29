@@ -21,3 +21,5 @@ After ensuring that the Amazon Review dataset was extracted as a DataFrame and t
 
 <img width="796" alt="Screen Shot 2022-08-28 at 6 41 37 PM" src="https://user-images.githubusercontent.com/104043438/187102347-4d75dc6b-f834-4766-845e-11d80eb8d3ac.png">
 
+### Summary:
+The question at hand: Was there any positivity bias for reviews in the Vine program? Using the results from my analysis I can confirm slight bias, but it doesn't seem to be positive. Through the Vine program, paid 5-star reviews accounted for a little over 40.24%, however, unpaid 5-star reviews seemed to have had a more positive outcome. Over 51% of consumers rated the products with 5-stars even though they weren't a part of the paid program. It's interesting to consider why the 5-star ratings were less likely to be given through the paid vs unpaid program.
